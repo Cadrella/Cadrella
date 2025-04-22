@@ -453,7 +453,7 @@
         grid-template-columns: 180px;
         grid-auto-rows: 100%;
         gap: 0px;
-        padding-left: 14.6vw;
+        padding-left: 10.6vw;
     }
 }
 
@@ -462,6 +462,6 @@
         grid-template-columns: 150px;
         grid-auto-rows: 100%;
         gap: 0px;
-        padding-left: 14.6vw;
+        padding-left: 7.6vw;
     }
 }
