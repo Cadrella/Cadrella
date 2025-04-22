@@ -447,3 +447,12 @@
         padding-left: 14.6vw;
     }
 }
+
+@media (max-width: 400px) {
+    #products_container{
+        grid-template-columns: 220px;
+        grid-auto-rows: 100%;
+        gap: 0px;
+        padding-left: 14.6vw;
+    }
+}
